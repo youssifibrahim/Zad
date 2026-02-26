@@ -134,10 +134,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-Developed with ❤️ by [Youssif Ibrahim]
-
-
-
-
-
-
+Developed with ❤️ by [Youssif Ibrahim](https://www.linkedin.com/in/youssifibrahim/)
