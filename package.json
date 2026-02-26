@@ -1,0 +1,33 @@
+{
+  "name": "zad",
+  "version": "1.0.0",
+  "description": "Market Application",
+  "license": "ISC",
+  "author": "Youssif Ibrahim",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youssifibrahim/Zad.git"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cloudinary": "^1.41.3",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.2.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.1",
+    "morgan": "^1.10.1",
+    "multer": "^2.0.2",
+    "multer-storage-cloudinary": "^4.0.0",
+    "nodemon": "^3.1.11",
+    "redis": "^5.10.0",
+    "stripe": "^20.1.2",
+    "validator": "^13.15.26"
+  }
+}
